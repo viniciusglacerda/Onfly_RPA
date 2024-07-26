@@ -19,7 +19,7 @@ Automatizar o preenchimento de um formulário HTML complexo com dados fictícios
 
 ### Ferramentas Alternativas
 
-Além de usar JavaScript puro, podemos utilizar alguns frameworks e ferramentas como [Selenium](https://www.selenium.dev/) e [Playwright](https://playwright.dev/) para automação de testes e preenchimento de formulários.
+Além de usar JavaScript puro, podemos utilizar alguns frameworks e ferramentas como [Selenium](https://www.selenium.dev/) e [Playwright](https://playwright.dev/) para automações relacionadas a atividades em sites na web.
 
 ## Desafio 2: Manipulação do DOM
 
